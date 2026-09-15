@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Karthik 👋
 
-<!--
-**KarthV01/KarthV01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building software where ambitious ideas meet real systems—applied AI, distributed infrastructure, and products that make complicated workflows feel simple.
 
-Here are some ideas to get you started:
+Right now I'm exploring how intelligent systems can read messy documents, coordinate work reliably, and move value safely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **[YTPayouts](https://github.com/KarthV01/YTPayouts)** — creator sponsorships backed by milestone verification and USDC escrow.
+- **[Stratos](https://github.com/KarthV01/Stratos)** — a distributed task system and hands-on lab for learning how systems fail and recover.
+- **[Outamation](https://github.com/KarthV01/Outamation)** — an OCR + RAG pipeline that turns mortgage PDFs into searchable, cited answers.
+- **[Crisis Hotline Triage](https://github.com/KarthV01/Crisis-Hotline-TriageFork)** — multimodal crisis detection using both vocal signals and language.
+
+## In my toolbox
+
+`TypeScript` · `Python` · `FastAPI` · `Redis` · `React` · `Solidity` · `FAISS` · `Docker`
+
+> I learn by building, breaking, and making the next version better.
