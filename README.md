@@ -1,4 +1,4 @@
-# Hey, I'm Karthik 👋
+# Hey, I'm Karthik
 
 I like building software where ambitious ideas meet real systems—applied AI, distributed infrastructure, and products that make complicated workflows feel simple.
 
