@@ -1,17 +1,25 @@
 # Hey, I'm Karthik
 
-I like building software where ambitious ideas meet real systems—applied AI, distributed infrastructure, and products that make complicated workflows feel simple.
+I'm an Electrical & Computer Engineering student at **Rutgers University – New Brunswick**, with minors in Mathematics and Computer Science.
 
-Right now I'm exploring how intelligent systems can read messy documents, coordinate work reliably, and move value safely.
+I build across distributed systems, applied AI, and software that makes complicated workflows easier to use. I'm especially interested in how systems coordinate, learn from feedback, and hold up when something goes wrong.
 
 ## What I'm building
 
-- **[Fiducia](https://github.com/KarthV01/Fiducia)** — creator sponsorships backed by milestone verification and USDC escrow.
-- **[Stratos](https://github.com/KarthV01/Stratos)** — a distributed task system and hands-on lab for learning how systems fail and recover.
-- **[Outamation](https://github.com/KarthV01/Outamation)** — an OCR + RAG pipeline that turns mortgage PDFs into searchable, cited answers.
+| Project | The idea | Under the hood |
+| --- | --- | --- |
+| **[Stratos](https://github.com/KarthV01/Stratos)** | Coordinate a mixed fleet of edge devices and turn drone surveys into maps. | Python · Go · Redis Streams · gRPC · MQTT · MAVLink · Kubernetes |
+| **[Kairos](https://github.com/KarthV01/Kairos)** | Tell it about your startup once; let it find relevant funding and prepare applications from what it knows. | Strands SDK · FastAPI · Next.js · SQLite · grounding checks |
+| **[Fiducia](https://github.com/KarthV01/Fiducia)** | Give creators and sponsors a shared workflow, with reserved funds and payouts tied to verified milestones. | TypeScript · Fastify · React · Prisma · Solidity · USDC escrow |
+| **[Nemesis](https://github.com/KarthV01/Nemesis)** | Train cybersecurity defenders through repeated encounters with an attacker in a simulated enterprise network. | CybORG · RLlib · PPO · PyTorch |
+| **[Outamation](https://github.com/KarthV01/Outamation)** | Turn mortgage PDFs into searchable answers with citations. | OCR · RAG · FAISS |
 
 ## In my toolbox
 
-`TypeScript` · `Python` · `FastAPI` · `Redis` · `React` · `Solidity` · `FAISS` · `Docker`
+**Languages:** Python · TypeScript · Go · C · Solidity  
+**Systems and infrastructure:** Docker · Kubernetes · Redis · gRPC · MQTT  
+**Applications and ML:** React · Next.js · FastAPI · Fastify · PyTorch · reinforcement learning · RAG
+
+[LinkedIn](https://www.linkedin.com/in/karthik-v-05b279326/) · [Repositories](https://github.com/KarthV01?tab=repositories)
 
 > I learn by building, breaking, and making the next version better.
